@@ -31,16 +31,7 @@
 | 항목 | 내용 |
 |:---  |---  |
 | (1) 요구사항 정의 | <br> <br> - Use Case Diagram ![use case diagram](https://github.com/user-attachments/assets/24752f95-297d-480c-8fb9-6dce025288ed) - Class Diagram <br> ![image](https://github.com/user-attachments/assets/7338f176-3bd1-4da9-894c-9e83aca40376) <br> - UI 분석/설계 모델 <br> - E-R 다이어그램/DB 설계 모델(테이블 구조) |
-| (2) 전체 시스템 구성 |**SW 전체 시스템 구조**<br> 이 프로젝트는 클라이언트-서버 아키텍처로 구성되어 있으며, 프론트엔드는 React Native를 사용하고, 백엔드는 Django 기반의 프레임워크로 구축되었습니다. 데이터베이스는 PostgreSQL을 사용하며, 서버는 AWS EC2에서 호스팅되고 있습니다. 사용자는 웹 브라우저를 통해 서비스에 접속하고, 로그인 후 데이터를 입력할 수 있습니다. 서버는 데이터를 처리하고, 데이터베이스에 저장한 후, 필요한 경우 외부 API와 연동하여 추가 정보를 가져옵니다. <br>**주요 SW 모듈 및 역할**<br>
-   - React Native: 사용자 인터페이스를 관리하며, 사용자의 입력을 받아 서버로 전달하고, 서버에서 받은 데이터를 화면에 보여줍니다.<br>
-   - API 관리 모듈(python): 서버와 클라이언트 간의 데이터 요청과 응답을 처리하며, 외부 API와 통신하여 필요한 데이터를 가져옵니다.<br>
-   - 데이터베이스 모듈(PostgreSQL): 사용자 데이터를 저장하고, 쿼리를 통해 필요한 데이터를 제공합니다.<br>
-   - 모델 생성 및 학습(Mask R-CNN) : Mask R-CNN을 통해 분류된 의류를 기반으로, 머신러닝 알고리즘을 사용하여 가장 많이 매칭된 옷과 모델샷에 사용된 옷을 분석해 줍니다.<br>**오픈소스 및 외부 모듈**<br>
-   - React Native : 사용자 인터페이스(UI)를 구현하는 데 사용한 오픈소스 라이브러리입니다.<br>
-   - Django : 서버 측에서 HTTP 요청을 처리하는 백엔드 프레임워크입니다.<br>
-   - PostgreSQL : 데이터베이스 관리 시스템으로, 프로젝트의 모든 데이터를 저장하고 쿼리를 처리합니다.<br>
-   - Cloth Segmentation : https://github.com/levindabhi/cloth-segmentation <br>
-   - ML Learning Algorithm : https://github.com/Sapphirine/Clothes-Matching-Based-on-Machine-Learning-Algorithms <br>|
+| (2) 전체 시스템 구성 |**SW 전체 시스템 구조**<br> 이 프로젝트는 클라이언트-서버 아키텍처로 구성되어 있으며, 프론트엔드는 React Native를 사용하고, 백엔드는 Django 기반의 프레임워크로 구축되었습니다. 데이터베이스는 PostgreSQL을 사용하며, 서버는 AWS EC2에서 호스팅되고 있습니다. 사용자는 웹 브라우저를 통해 서비스에 접속하고, 로그인 후 데이터를 입력할 수 있습니다. 서버는 데이터를 처리하고, 데이터베이스에 저장한 후, 필요한 경우 외부 API와 연동하여 추가 정보를 가져옵니다. <br>**주요 SW 모듈 및 역할**<br>- React Native: 사용자 인터페이스를 관리하며, 사용자의 입력을 받아 서버로 전달하고, 서버에서 받은 데이터를 화면에 보여줍니다.<br>- API 관리 모듈(python): 서버와 클라이언트 간의 데이터 요청과 응답을 처리하며, 외부 API와 통신하여 필요한 데이터를 가져옵니다.<br>- 데이터베이스 모듈(PostgreSQL): 사용자 데이터를 저장하고, 쿼리를 통해 필요한 데이터를 제공합니다.<br>- 모델 생성 및 학습(Mask R-CNN) : Mask R-CNN을 통해 분류된 의류를 기반으로, 머신러닝 알고리즘을 사용하여 가장 많이 매칭된 옷과 모델샷에 사용된 옷을 분석해 줍니다.<br>**오픈소스 및 외부 모듈**<br>- React Native : 사용자 인터페이스(UI)를 구현하는 데 사용한 오픈소스 라이브러리입니다.<br>- Django : 서버 측에서 HTTP 요청을 처리하는 백엔드 프레임워크입니다.<br>- PostgreSQL : 데이터베이스 관리 시스템으로, 프로젝트의 모든 데이터를 저장하고 쿼리를 처리합니다.<br>- Cloth Segmentation : https://github.com/levindabhi/cloth-segmentation <br>- ML Learning Algorithm : https://github.com/Sapphirine/Clothes-Matching-Based-on-Machine-Learning-Algorithms <br>|
 | (3) 진척도 및 검증내역 | *스타트 단계에서 검증한 내용에 대하여 간략히 기술하고, <br>그로쓰 단계의 전체 일정에 비추어, 진척도(%) 및 근거 내용을 기술한다.* |
 | (4) 기타 | *기타 사항을 기술* |
 
