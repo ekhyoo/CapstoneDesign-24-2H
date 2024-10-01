@@ -30,7 +30,7 @@
 # Project-Design
 | 항목 | 내용 |
 |:---  |---  |
-| (1) 요구사항 정의 | <br> <br> - Use Case Diagram ![use case diagram](https://github.com/user-attachments/assets/24752f95-297d-480c-8fb9-6dce025288ed) - 설계 모델(클래스 다이어그램, 클래스 및 모듈 명세서) <br> ![image](https://github.com/user-attachments/assets/7338f176-3bd1-4da9-894c-9e83aca40376)
+| (1) 요구사항 정의 | <br> <br> - Use Case Diagram ![use case diagram](https://github.com/user-attachments/assets/24752f95-297d-480c-8fb9-6dce025288ed) - Class Diagram <br> ![image](https://github.com/user-attachments/assets/7338f176-3bd1-4da9-894c-9e83aca40376)
 <br> - UI 분석/설계 모델 <br> - E-R 다이어그램/DB 설계 모델(테이블 구조) |
 | (2) 전체 시스템 구성 | *프로젝트를 위하여, SW 전체 시스템의 구조를 보인다. (가능하다면, 사용자도 포함) <br> 주요 SW 모듈을 보이고, 각각의 역할을 기술한다. <br>만약, 오픈소스 혹은 외부 모듈을 사용한다면 이또한 기술한다.* |
 | (3) 진척도 및 검증내역 | *스타트 단계에서 검증한 내용에 대하여 간략히 기술하고, <br>그로쓰 단계의 전체 일정에 비추어, 진척도(%) 및 근거 내용을 기술한다.* |
