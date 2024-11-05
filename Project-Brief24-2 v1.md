@@ -68,6 +68,7 @@
 | (5) 팀 멘토 | 김동수 / CTO / 엘핀 |
 | (6) 과제 키워드(keywords) | 챗봇, LLM, RAG, Web |
 | (7) 과제 내용 요약 | **[한줄소개]** </br> GoldenGlobe는 RAG 기반 챗봇과 공유 체크리스트로 시니어의 여행 준비를 돕는 서비스입니다. </br> **[타겟고객/Pain point]** </br> 1. 시니어 : 정보 부족 및 소통 부담, 검색시간 소요, 준비물 확인 시간 소요 </br> 2. 시니어의 가족 : 정보제공의 어려움, 준비물 공유 및 확인의 번거로움 </br> **[주요 기능]** </br> 1. 챗봇 : RAG를 사용하여 목적지,기간,날씨,호텔,항공권 정보에 대한 정확한 답변을 제공한다. </br> 2. 체크리스트 : PDF를 토대로 자동으로 체크리스트를 제안하고, 이를 가족과 시니어가 공유해서 크로스 체크가 가능하게 한다. </br> **[기대효과]** </br> - 여행 준비에서 가족과의 소통 부담을 감소시킨다. </br> - 시니어는 챗봇을 통해 검색시간을 줄이고, 보다 정확한 답변을 제공받을 수 있다. </br> - 시니어와 가족은 여행 준비물을 편리하게 관리하고, 중복을 최소화할 수 있다. </br> 
+| (8) 주요 link | Front Address https://github.com/Capstone03-GoldenGlobe/FE </br> Backend Address https://github.com/Capstone03-GoldenGlobe/BE </br> AI Address https://github.com/Capstone03-GoldenGlobe/AI </br> 과제 보고서 https://github.com/Capstone03-GoldenGlobe/1st-report/blob/main/README.md |
 | (10) 기타 |  |
 
 [Return TOP](#list-of-teamsprojects)
