@@ -217,8 +217,9 @@
 | (3) 팀원 역할 분담 | 주민영(2076395) : 리더, AI, 백엔드   <br> 길연형(2071005) : 팀원, 프론트엔드, 디자인   <br> 최수미(2040037 : 팀원, 백엔드   |
 | (4) 팀 지도교수 | 오세은 |
 | (5) 팀 멘토 | 현정훈 / 이사 / 아트램프 |
-| (6) 과제 키워드(keywords) | LLM, 이미지 생성 AI, 자연어 처리 |
-| (7) 과제 내용 요약 | 미술 작품 감상이 어려운 초등학생을 위해, AI 도슨트와 함께하는 대화 감상과 이미지 생성 AI를 이용한 그림 생성 기능을 갖춘 어플리케이션을 통해 작품 감상을 돕고자 한다. |
+| (6) 과제 키워드(keywords) | LLM, 이미지 생성 AI, Prompt Engineering, RAG, AI 도슨트  |
+| (7) 과제 내용 요약 | 미술 감상이 어려운 초등학생을 위해, AI 도슨트와 함께하는 대화 감상과 이미지 생성 AI를 이용한 그림 생성 기능을 갖춘 어플리케이션을 통해 미술 작품 감상을 돕고자 한다.  |
+| (8) 주요 Link | 과제 GIT Address https://github.com/orgs/Wild-Gaori/repositories<br>과제 보고서 https://github.com/Wild-Gaori/Report/blob/main/15-%EC%99%80%EC%9D%BC%EB%93%9C%EA%B0%80%EC%98%A4%EB%A6%AC-2%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C-2024-11-05.md  |
 | (10) 기타 |  |
 
 [Return TOP](#list-of-teamsprojects)
