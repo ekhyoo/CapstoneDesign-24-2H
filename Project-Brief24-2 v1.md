@@ -74,7 +74,7 @@
 
 
 # Team-04
-| (1) 과제명 | Lightweighting CLIP for Face Anti-Spoofing via Knowledge Distillation
+| (1) 과제명 | T-FLIP: 어텐션 가중치 기반 지식 증류를 통한 안면 위조 방지 모델 경량화
 |:---  |---  |
 | (2) 팀 번호 / 팀 이름 | 04-티라노 |
 | (3) 팀원 역할 분담 |  박지원(2076169) : 리더, AI 모델 개발   <br> 류이정(2176129) : 팀원, AI 모델 개발   <br> 소예림(2071028) : 팀원, AI 모델 개발  |
@@ -82,6 +82,7 @@
 | (5) 팀 멘토 | 최종원 / 조교수 / 중앙대학교 첨단영상대학원 영상학과 |
 | (6) 과제 키워드(keywords) | CLIP, Face Anti Spoofing(FAS), 경량화, knowledge distillation |
 | (7) 과제 내용 요약 | FLIP(Face Anti-Spoofing with Language-Image Pretraining)은 멀티모달 모델인 CLIP(Contrastive Language-Image Pretraining)을 Face Anti-Spoofing(FAS) 태스크에 최적화한 모델이다. FLIP은 위조 얼굴을 탐지하는 FAS 태스크에서 다른 모델들에 비해 우수한 성능을 보여준다. 그러나 거대한 모델 구조로 인해 추론에 많은 비용이 발생하며, 엣지 디바이스에 탑재하는 데에 어려움이 있다. 이에 따라, Knowledge Distillation(지식 증류) 방법을 사용하여 FLIP의 우수한 성능을 유지하면서도 더 빠르게 추론할 수 있는 경량화 모델을 개발하고자 한다. |
+| (8) 주요 Link | 과제 GIT adress https://github.com/sudaltokki/T-FLIP </br> 과제 보고서 https://github.com/sudaltokki/T-FLIP/blob/main/04-%ED%8B%B0%EB%9D%BC%EB%85%B8-1%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C-2024-09-22-v0.md |
 | (10) 기타 |  |
 
 [Return TOP](#list-of-teamsprojects)
