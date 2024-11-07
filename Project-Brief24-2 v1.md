@@ -302,7 +302,7 @@
 | (5) 팀 멘토 | 이기문 / 팀원(딥러닝 엔지니어) / 렐루게임즈 |
 | (6) 과제 키워드(keywords) | 음성 인식, 게임, AI, 챗봇, STT |
 | (7) 과제 내용 요약 | **길거리 판매왕**은 유저가 AI 탑재 NPC와의 실시간 상호작용을 통해 설득 스킬을 발휘하여 물건을 판매하는 몰입형 롤플레잉 게임입니다. ChatGPT-4 API와 STT 기능을 활용해 매번 랜덤하게 생성되는 NPC와 음성 대화를 나누며, 설득력에 따라 성공 여부가 결정되어 게임 경험을 개별화하고 몰입감을 높였습니다.<br>**[타겟고객/Pain point]**<br> **Target Customer**: 시뮬레이션 게임을 즐겨하며, NPC와의 상호작용을 좋아하는 게임 유저 <br> **PainPoint**: <br> 1. 고정된 NPC와의 스크립트 (ex. 하고 싶은 말이 있어도 선택지가 없는 문제) <br>2. 매번 같은 경험을 제공하는 게임 (ex. 여러 번 플레이를 했을 때 항상 똑같은 플레이 경험을 주는 문제)<br> **[주요 기능]**<br> 1. 실시간 NPC 생성 및 상호작용<br> 2. 랜덤 NPC 외형/성격 생성	<br> **[기대효과]**<br> **길거리 판매왕**은 유저들이 몰입할 수 있는 게임 콘텐츠 제공합니다.|
-| (8) 주요 링크 | [과제 git 주소]: https://github.com/OctoNeverDie/2024-Spring-Capstone-team20 <br> [과제 보고서]: https://github.com/OctoNeverDie/2024-Spring-Capstone-team20/blob/main/20-%EB%AC%B4%EB%84%88%EC%A7%80%EC%A7%80%EC%95%8A%EB%8A%94%EB%AC%B8%EC%96%B4-1%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C-2024-10-24-v1.md |
+| (8) 주요 링크 | [과제 git 주소]: https://github.com/OctoNeverDie/2024-Spring-Capstone-team20 <br> [과제 보고서]: https://github.com/OctoNeverDie/2024-Spring-Capstone-team20/blob/main/20-%EB%AC%B4%EB%84%88%EC%A7%80%EC%A7%80%EC%95%8A%EB%8A%94%EB%AC%B8%EC%96%B4-2%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C.md |
 | (10) 기타 |  |
 
 [Return TOP](#list-of-teamsprojects)
