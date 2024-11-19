@@ -214,6 +214,7 @@
 | (5) 팀 멘토 | 오종훈 / 부장,팀장 / 클라우드네트웍스 |
 | (6) 과제 키워드(keywords) | 클라우드, AI, Object Detection |
 | (7) 과제 내용 요약 | 불법주정차 신고절차를 자동화하는 서비스로, 블랙박스 데이터를 활용하여 불법주정차를 AI로 탐지, 이후 클라우드 내 메타데이터 간 비교분석을 수행하여 준법 여부를 가려내어 해당 차량이 자동으로 신고되게 하고자 한다. |
+| (8) 주요 Link | 과제 GIT Address<br> https://github.com/orgs/Gotcha-powered-by-AID/repositories<br><br>과제 보고서<br><br>https://github.com/Gotcha-powered-by-AID/Gotcha-document/blob/main/13-AI_D-2%E1%84%8E%E1%85%A1%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5-2024-11-07-v0.md|
 | (10) 기타 |  |
 
 [Return TOP](#list-of-teamsprojects)
