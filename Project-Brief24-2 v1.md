@@ -113,7 +113,7 @@
 | (5) 팀 멘토 | 이수현 / 개발자 / 네이버 |
 | (6) 과제 키워드(keywords) | 생성형 AI, 프롬프트 엔지니어링, 추천시스템 |
 | (7) 과제 내용 요약 | SCHOLLI는 대학생들이 방대한 장학금 정보 속에서 자신에게 적합한 장학금을 쉽고 빠르게 찾을 수 있도록 돕는 AI 기반 장학금 추천 서비스입니다. 통합된 장학금 정보를 제공해 탐색 시간을 줄이고 AI 기술을 활용해 성적, 경제적 상황, 전공뿐만 아니라 진로 계획, 수상 경력 및 언어 능력과 같은 특기자 정보 등 세부 정보를 분석하여 개인 맞춤형 장학금을 추천합니다. 또한, 이전 장학금 수혜자들이 수혜 관련 조언을 공유하고 이를 추출해 수혜팁을 제공합니다. 이를 바탕으로 사용자는 보다 전략적으로 장학금을 지원할 수 있습니다. SCHOLLI는 장학금 지원 기회를 놓치는 문제를 해결하고, 더 많은 학생들에게 교육의 평등성을 제공하는 것을 목표로 합니다. |
-| (8) 주요 Link | 과제 GIT Address()<br>과제 보고서(https://github.com/Musccat/06_Musccat_Report1)
+| (8) 주요 Link | 과제 GIT Address(https://github.com/Musccat)<br>과제 보고서(https://github.com/Musccat/06_Musccat_Report1/blob/main/README.md)
 | (10) 기타 |  |
 
 [Return TOP](#list-of-teamsprojects)
