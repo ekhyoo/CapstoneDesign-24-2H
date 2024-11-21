@@ -37,7 +37,7 @@
 | (5) 팀 멘토 | 김기휘 / CTO / Fliption |
 | (6) 과제 키워드(keywords) | STT, NLP, Vision, Gen AI |
 | (7) 과제 내용 요약 | COMMA는 **시각 · 청각장애 학습자**를 위해, 강의 자료를 학습하여 실시간 수업 시 맞춤형 도움을 제공하는 인공지능 학습 어플리케이션입니다. COMMA는 다음의 세 가지 주요 기능을 제공합니다. <br><br> 1. (시각장애인) 수업 자료 pdf를 인식하여, 이에 자동으로 *대체텍스트를 생성합니다. <br> 2. (청각장애인) 수업 자료 pdf를 인식하여, 당일 수업 자료와 연관된 단어의 인식률을 높인 실시간 자막 서비스를 지원합니다. <br> 3. (공통) 수업 자료 ppt의 슬라이드 내용에 맞춰 강의 전사 파일을 분리한 복습 자료 ‘콜론’을 생성합니다. <br><br>*대체텍스트: 이미지 형태의 정보를 시각장애인이 이해할 수 있도록 풀어 설명해 주는 설명이나 문구. |
-| (8) 기타 |  |
+| (8) 주요 Link | <br> 과제 GIT Address https://github.com/WarmElephantMario/COMMA <br> 1차 과제 보고서 https://github.com/WarmElephantMario/COMMA/blob/main/01-%EB%94%B0%EB%9C%BB%ED%95%9C%EC%BD%94%EB%81%BC%EB%A6%AC%EB%A7%88%EB%A6%AC%EC%98%A4-1%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C-2024-09-29-v0.md <br> 2차 과제 보고서 https://github.com/WarmElephantMario/COMMA/blob/main/01-%EB%94%B0%EB%9C%BB%ED%95%9C%EC%BD%94%EB%81%BC%EB%A6%AC%EB%A7%88%EB%A6%AC%EC%98%A4-2%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C-2024-11-06-v0.md |
 
 [Return TOP](#list-of-teamsprojects)
 
