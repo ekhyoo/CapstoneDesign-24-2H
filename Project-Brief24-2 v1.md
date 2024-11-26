@@ -171,6 +171,7 @@
 | (5) 팀 멘토 | 이호준 / 부장 / 에듀니티랩 |
 | (6) 과제 키워드(keywords) | GenAI, 이미지생성, 행사관리 |
 | (7) 과제 내용 요약 | team:nori는 대형 단체의 관리자와 참여자를 타겟으로 하는 웹서비스임. 본 서비스를 이용하는 관리자는 홍보물 이미지 생성 기능을 통해 간편하게 내부 행사를 만들고 관리할 수 있음. 참여자는 행사의 내용을 쉽게 확인하여 신청할 수 있고, 발급된 티켓 목록을 통해 참여 신청한 행사의 정보에 빠르게 접근할 수 있음. |
+| (8) 주요 Link | [과제 GIT] https://github.com/HA-MYUN-HAM [FE] https://github.com/HA-MYUN-HAM/HMH-WEB [BE] https://github.com/HA-MYUN-HAM/HMH-SERVER [AI] https://github.com/HA-MYUN-HAM/HMH-AI [과제 보고서] https://github.com/HA-MYUN-HAM/.github/blob/main/10-하면함-2차보고서.md
 | (10) 기타 |  |
 
 [Return TOP](#list-of-teamsprojects)
