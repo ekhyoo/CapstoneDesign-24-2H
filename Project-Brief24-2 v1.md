@@ -185,7 +185,7 @@
 | (4) 팀 지도교수 | 이형준 |
 | (5) 팀 멘토 | 이관호 / 연구원 / Samsung Advanced Institute of Technology (SAIT) |
 | (6) 과제 키워드(keywords) | • Dietary restrictions (건강상의 이유, 문화적, 종교적 이유, 또는 개인적인 선호 등에 따라 특정 음식이나 영양소를 제한하는 것)<br> • 텍스트/이미지 생성형 AI<br> • 멀티모달 |
-| (7) 과제 내용 요약 | FoodieBuddy는 한국에 체류하는 dietary restrictions이 있는 외국인들을 돕기 위한 채팅 기반 앱 서비스 입니다. FoodieBuddy는 언어 장벽과 낯선 한식 재료로 인한 어려움을 해결하고, 사용자의 dietary restrictions에 맞춘 맞춤형 메뉴 추천을 제공합니다. 이러한 기능을 구현하기 위해 gpt-4o를 이용하여 채팅을 진행하고 파인튜닝된 Stable Diffusion 모델을 이용하여 한식 메뉴 이미지를 생성합니다. FoodieBuddy를 통해 식단 정보에 대한 접근성을 높이고, 사용자가 본인에게 적합한 한식 메뉴를 선택하는 과정을 더욱 쉽게 만들고자 합니다. |
+| (7) 과제 내용 요약 | FoodieBuddy는 한국에 머무르는 dietary restrictions이 있는 외국인들을 돕기 위한 채팅 기반 앱 서비스 입니다. FoodieBuddy는 언어 장벽과 낯선 한식 재료로 인한 어려움을 해결하고, 사용자의 dietary restrictions에 맞춘 맞춤형 메뉴 추천을 제공합니다. 이러한 기능을 구현하기 위해 gpt-4o를 이용하여 채팅을 진행하고 파인튜닝된 Stable Diffusion 모델을 이용하여 한식 메뉴 이미지를 생성합니다. FoodieBuddy를 통해 식단 정보에 대한 접근성을 높이고, 사용자가 본인에게 적합한 한식 메뉴를 선택하는 과정을 더욱 쉽게 만들고자 합니다. |
 | (8) 주요 Link | 과제 GIT Address<br> https://github.com/Powerful-Unicorn<br>과제 보고서<br> https://github.com/Powerful-Unicorn/.github/blob/main/2%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C/11-%ED%9E%98%EC%B0%AC%EC%9C%A0%EB%8B%88%EC%BD%98-2%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C-v0.md|
 | (10) 기타 |  |
 
