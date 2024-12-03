@@ -37,7 +37,7 @@
 | (5) 팀 멘토 | 김기휘 / CTO / Fliption |
 | (6) 과제 키워드(keywords) | STT, NLP, Vision, Gen AI |
 | (7) 과제 내용 요약 | COMMA는 **시각 · 청각장애 학습자**를 위해, 강의 자료를 학습하여 실시간 수업 시 맞춤형 도움을 제공하는 인공지능 학습 어플리케이션입니다. COMMA는 다음의 세 가지 주요 기능을 제공합니다. <br><br> 1. (시각장애인) 수업 자료 pdf를 인식하여, 이에 자동으로 *대체텍스트를 생성합니다. <br> 2. (청각장애인) 수업 자료 pdf를 인식하여, 당일 수업 자료와 연관된 단어의 인식률을 높인 실시간 자막 서비스를 지원합니다. <br> 3. (공통) 수업 자료 ppt의 슬라이드 내용에 맞춰 강의 전사 파일을 분리한 복습 자료 ‘콜론’을 생성합니다. <br><br>*대체텍스트: 이미지 형태의 정보를 시각장애인이 이해할 수 있도록 풀어 설명해 주는 설명이나 문구. |
-| (8) 기타 |  |
+| (8) 주요 Link | <br> 과제 GIT Address https://github.com/WarmElephantMario/COMMA <br> 1차 과제 보고서 https://github.com/WarmElephantMario/COMMA/blob/main/01-%EB%94%B0%EB%9C%BB%ED%95%9C%EC%BD%94%EB%81%BC%EB%A6%AC%EB%A7%88%EB%A6%AC%EC%98%A4-1%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C-2024-09-29-v0.md <br> 2차 과제 보고서 https://github.com/WarmElephantMario/COMMA/blob/main/01-%EB%94%B0%EB%9C%BB%ED%95%9C%EC%BD%94%EB%81%BC%EB%A6%AC%EB%A7%88%EB%A6%AC%EC%98%A4-2%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C-2024-11-06-v0.md |
 
 [Return TOP](#list-of-teamsprojects)
 
@@ -113,7 +113,7 @@
 | (5) 팀 멘토 | 이수현 / 개발자 / 네이버 |
 | (6) 과제 키워드(keywords) | 생성형 AI, 프롬프트 엔지니어링, 추천시스템 |
 | (7) 과제 내용 요약 | SCHOLLI는 대학생들이 방대한 장학금 정보 속에서 자신에게 적합한 장학금을 쉽고 빠르게 찾을 수 있도록 돕는 AI 기반 장학금 추천 서비스입니다. 통합된 장학금 정보를 제공해 탐색 시간을 줄이고 AI 기술을 활용해 성적, 경제적 상황, 전공뿐만 아니라 진로 계획, 수상 경력 및 언어 능력과 같은 특기자 정보 등 세부 정보를 분석하여 개인 맞춤형 장학금을 추천합니다. 또한, 이전 장학금 수혜자들이 수혜 관련 조언을 공유하고 이를 추출해 수혜팁을 제공합니다. 이를 바탕으로 사용자는 보다 전략적으로 장학금을 지원할 수 있습니다. SCHOLLI는 장학금 지원 기회를 놓치는 문제를 해결하고, 더 많은 학생들에게 교육의 평등성을 제공하는 것을 목표로 합니다. |
-| (8) 주요 Link | 과제 GIT Address()<br>과제 보고서(https://github.com/Musccat/06_Musccat_Report1)
+| (8) 주요 Link | 과제 GIT Address(https://github.com/Musccat)<br>과제 보고서(https://github.com/Musccat/06_Musccat_Report1/blob/main/README.md)
 | (10) 기타 |  |
 
 [Return TOP](#list-of-teamsprojects)
@@ -171,6 +171,7 @@
 | (5) 팀 멘토 | 이호준 / 부장 / 에듀니티랩 |
 | (6) 과제 키워드(keywords) | GenAI, 이미지생성, 행사관리 |
 | (7) 과제 내용 요약 | team:nori는 대형 단체의 관리자와 참여자를 타겟으로 하는 웹서비스임. 본 서비스를 이용하는 관리자는 홍보물 이미지 생성 기능을 통해 간편하게 내부 행사를 만들고 관리할 수 있음. 참여자는 행사의 내용을 쉽게 확인하여 신청할 수 있고, 발급된 티켓 목록을 통해 참여 신청한 행사의 정보에 빠르게 접근할 수 있음. |
+| (8) 주요 Link | [과제 GIT] https://github.com/HA-MYUN-HAM [FE] https://github.com/HA-MYUN-HAM/HMH-WEB [BE] https://github.com/HA-MYUN-HAM/HMH-SERVER [AI] https://github.com/HA-MYUN-HAM/HMH-AI [과제 보고서] https://github.com/HA-MYUN-HAM/.github/blob/main/10-하면함-2차보고서.md
 | (10) 기타 |  |
 
 [Return TOP](#list-of-teamsprojects)
@@ -184,7 +185,7 @@
 | (4) 팀 지도교수 | 이형준 |
 | (5) 팀 멘토 | 이관호 / 연구원 / Samsung Advanced Institute of Technology (SAIT) |
 | (6) 과제 키워드(keywords) | • Dietary restrictions (건강상의 이유, 문화적, 종교적 이유, 또는 개인적인 선호 등에 따라 특정 음식이나 영양소를 제한하는 것)<br> • 텍스트/이미지 생성형 AI<br> • 멀티모달 |
-| (7) 과제 내용 요약 | FoodieBuddy는 한국에 체류하는 dietary restrictions이 있는 외국인들을 돕기 위한 채팅 기반 앱 서비스 입니다. FoodieBuddy는 언어 장벽과 낯선 한식 재료로 인한 어려움을 해결하고, 사용자의 dietary restrictions에 맞춘 맞춤형 메뉴 추천을 제공합니다. 이러한 기능을 구현하기 위해 gpt-4o를 이용하여 채팅을 진행하고 파인튜닝된 Stable Diffusion 모델을 이용하여 한식 메뉴 이미지를 생성합니다. FoodieBuddy를 통해 식단 정보에 대한 접근성을 높이고, 사용자가 본인에게 적합한 한식 메뉴를 선택하는 과정을 더욱 쉽게 만들고자 합니다. |
+| (7) 과제 내용 요약 | FoodieBuddy는 한국에 머무르는 dietary restrictions이 있는 외국인들을 돕기 위한 채팅 기반 앱 서비스 입니다. FoodieBuddy는 언어 장벽과 낯선 한식 재료로 인한 어려움을 해결하고, 사용자의 dietary restrictions에 맞춘 맞춤형 메뉴 추천을 제공합니다. 이러한 기능을 구현하기 위해 gpt-4o를 이용하여 채팅을 진행하고 파인튜닝된 Stable Diffusion 모델을 이용하여 한식 메뉴 이미지를 생성합니다. FoodieBuddy를 통해 식단 정보에 대한 접근성을 높이고, 사용자가 본인에게 적합한 한식 메뉴를 선택하는 과정을 더욱 쉽게 만들고자 합니다. |
 | (8) 주요 Link | 과제 GIT Address<br> https://github.com/Powerful-Unicorn<br>과제 보고서<br> https://github.com/Powerful-Unicorn/.github/blob/main/2%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C/11-%ED%9E%98%EC%B0%AC%EC%9C%A0%EB%8B%88%EC%BD%98-2%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C-v0.md|
 | (10) 기타 |  |
 
@@ -200,7 +201,7 @@
 | (5) 팀 멘토 |  진현영 / 주임연구원 / 어센트코리아 |
 | (6) 과제 키워드(keywords) | Grounded-SAM, Inpaint Anything, 협업필터링 추천시스템 |
 | (7) 과제 내용 요약 | 날씨에 맞는 옷을 고르기 어려워하는 20대 여성들을 위한 날씨와 패션을 결합한 소셜 네트워크 서비스이다. 사용자의 OOTD 사진 기반으로, 사용자의 체질(ex. 추위를 많이 탐)을 고려한 AI의 옷 추천 기능을 제공한다. 또한 가장 친한 친구 20명과 소통할 수 있는 폐쇄형 커뮤니티 기능을 제공한다. 매일 OOTD 이미지와 콜라주화된 이미지, 날짜, 날씨, 옷에 대한 코멘트를 부담없이 공유하고, 친구들의 OOTD를 참고할 수 있다.  |
-| (8) 주요 Link | 과제 GIT Address<br>https://github.com/Coollaafi<br><br>과제 보고서 <br>https://github.com/Coollaafi/Coollaafi_Info/blob/main/Capstone-1stReport-12-%EC%BF%A8%EB%9D%BC%ED%94%BC%20v1-2024-09-24.md<br><br>서비스 링크<br>https://coollaafi.shop/
+| (8) 주요 Link | 과제 GIT Address<br>https://github.com/Coollaafi<br><br>과제 보고서 <br>https://github.com/Coollaafi/Coollaafi_Info/blob/main/Capstone-1stReport-12-%EC%BF%A8%EB%9D%BC%ED%94%BC%20v1-2024-09-24.md<br><br>서비스 링크<br>https://coollaafi-frontend.vercel.app/
 | (10) 기타 |  |
 
 [Return TOP](#list-of-teamsprojects)
@@ -291,7 +292,7 @@
 | (5) 팀 멘토 | 이태영 / 수석 / 신한은행 |
 | (6) 과제 키워드(keywords) | MBTI, 생성형 AI, 추천 알고리즘, LLM |
 | (7) 과제 내용 요약 | 본 과제는 선물 선택에 고민이 많은 사람과 MBTI별 맞춤형 선물 추천을 받고 싶은 MZ 세대를 위한 서비스다.<br> 1. 인맥 등록 : 사용자가 이름, 생일, 나와의 관계 등 인맥 정보를 간단히 입력하면 LLM을 통해 자동으로 MBTI와 관심사 키워드가 생성되며, 사용자는 이를 수정할 수 있다. 이는 선물 추천 대상에 대한 정보를 등록하는 과정이다.<br> 2. 선물 추천 : 인맥 등록 후 사용자가 선물 이벤트 등 기본 정보를 입력하면 1차 선물 리스트가 생성된다. 이후 LLM과 추천 시스템을 통해 최종 선물 리스트가 완성된다. 사용자는 3개의 선물을 추천 받게 되며 각 인맥에 대한 추천 기록은 히스토리 페이지에서 확인할 수 있다.<br> 3. 문구 생성 : 선물과 함께 보낼 문구를 고민하는 사람을 위해 chatGPT API를 활용한 문구 생성 기능을 제공한다. 사용자가 입력한 문장 길이와 대상과의 친밀도를 바탕으로 문구가 자동 생성된다. 생성된 문구는 수정하고 저장할 수 있으며 히스토리 페이지에서도 확인할 수 있다. |
-| (8) 주요 Link | https://github.com/uuuueong/.github/blob/main/19-우엉-1차보고서-v0.md|
+| (8) 주요 Link | Github: https://github.com/orgs/uuuueong/repositories<br>과제보고서: https://github.com/uuuueong/.github/blob/main/19-우엉-2차보고서-v0.md|
 | (10) 기타 |  |
 
 [Return TOP](#list-of-teamsprojects)
@@ -321,7 +322,7 @@
 | (5) 팀 멘토 | 한승우 / 부장 / 블룸테크놀로지 |
 | (6) 과제 키워드(keywords) | 맞춤형 코디, Match R-CNN, nc loss model  |
 | (7) 과제 내용 요약 | 저희 앱의 플로우는 다음과 같습니다. 각자의 체형 정보 및 스타일을 기입하여 회원가입을 진행합니다. 세터는, 자신의 포트폴리오를 채운 후, 자신에게 들어올 코디 요청을 기다립니다. 시커는, 자신이 코디를 함께 하고 싶은 옷과 장소, 함께 만나는 사람들을 입력하여 제안서를 보냅니다. 제안서를 받은 세터 중 2명의 세터가 제안을 수락하고 코디를 진행합니다. 코디를 진행할 때, 먼저 시중에 공개된 패션 데이터셋을 이용하여 Mask R-CNN 기반의 Match R-CNN 모델을 생성 및 학습을 진행합니다. 이후, 크롤링을 통해 수집한 데이터를 AI 모델로 분석한 뒤, 학습된 데이터셋과 동일한 형식으로 변환하여 분석할 계획입니다. 통계를 내는 방식을 이용하여, 가장 많이 매칭한 옷과 모델샷에서 함께 입은 옷을 분석한 DB를 구성하는 것을 목표로 하고 있습니다. 두번째로, seeker와 setter의 매칭 알고리즘을 구현합니다.이 알고리즘은 seeker와 비슷한 체형을 가진 setter를 매칭하는 역할을 합니다. 만약 동일한 체형 및 컴플렉스를 가진 setter가 없을 경우, 근접한 체형의 setter를 자동으로 매칭할 수 있는 알고리즘을 설계할 예정입니다. |
-| (8) 주요 Link | 과제 보고서: https://github.com/doyoom/CapstoneDesign-24-2H/blob/cb0a8dc3217f58d5e3fd50bd5d77acc193848ce6/21-반려코더스-2차보고서-2024-11-07-v0-2-2.md|
+| (8) 주요 Link | 과제 보고서: https://github.com/doyoom/CapstoneDesign-24-2H/blob/538e5d1bf7045d2738a6aa3323282ffd731c7ae6/21-%EB%B0%98%EB%A0%A4%EC%BD%94%EB%8D%94%EC%8A%A4-2%E1%84%8E%E1%85%A1%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9%E1%84%89%E1%85%A5-2024-11-07-v0-2-2.md |
 | (10) 기타 |  |
 
 [Return TOP](#list-of-teamsprojects)
