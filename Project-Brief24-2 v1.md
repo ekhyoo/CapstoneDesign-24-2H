@@ -291,7 +291,7 @@
 | (5) 팀 멘토 | 이태영 / 수석 / 신한은행 |
 | (6) 과제 키워드(keywords) | MBTI, 생성형 AI, 추천 알고리즘, LLM |
 | (7) 과제 내용 요약 | 본 과제는 선물 선택에 고민이 많은 사람과 MBTI별 맞춤형 선물 추천을 받고 싶은 MZ 세대를 위한 서비스다.<br> 1. 인맥 등록 : 사용자가 이름, 생일, 나와의 관계 등 인맥 정보를 간단히 입력하면 LLM을 통해 자동으로 MBTI와 관심사 키워드가 생성되며, 사용자는 이를 수정할 수 있다. 이는 선물 추천 대상에 대한 정보를 등록하는 과정이다.<br> 2. 선물 추천 : 인맥 등록 후 사용자가 선물 이벤트 등 기본 정보를 입력하면 1차 선물 리스트가 생성된다. 이후 LLM과 추천 시스템을 통해 최종 선물 리스트가 완성된다. 사용자는 3개의 선물을 추천 받게 되며 각 인맥에 대한 추천 기록은 히스토리 페이지에서 확인할 수 있다.<br> 3. 문구 생성 : 선물과 함께 보낼 문구를 고민하는 사람을 위해 chatGPT API를 활용한 문구 생성 기능을 제공한다. 사용자가 입력한 문장 길이와 대상과의 친밀도를 바탕으로 문구가 자동 생성된다. 생성된 문구는 수정하고 저장할 수 있으며 히스토리 페이지에서도 확인할 수 있다. |
-| (8) 주요 Link | Github: https://github.com/orgs/uuuueong/repositories<br>과제보고서: https://github.com/uuuueong/.github/blob/main/19-우엉-2차보고서-v0.md|
+| (8) 주요 Link | Github: https://github.com/orgs/uuuueong/repositories<br>과제보고서: https://github.com/uuuueong/.github/blob/main/19-우엉-최종보고서-v0.md<br>시연영상: https://www.youtube.com/watch?v=8urzfBDQB7I|
 | (10) 기타 |  |
 
 [Return TOP](#list-of-teamsprojects)
